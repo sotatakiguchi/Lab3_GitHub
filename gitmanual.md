@@ -1,4 +1,4 @@
-![Git・GitHub基礎と実践ロゴ](./image/logo.jpg)
+![Git・GitHubマニュアルロゴ](./image/logo.jpg)
 # Git について
 このテキストでは、Gitの使用方法をまとめます。
 ## 1. Git のダウンロード
