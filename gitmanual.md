@@ -1,13 +1,15 @@
 ![Git・GitHubマニュアルロゴ](./image/logo.jpg)
-# Git について
-このテキストでは、Gitの使用方法をまとめます。
-## 1. Git のダウンロード
-* [ダウンロード](module1.md)
-## 2. Git の初期設定
-* [git config コマンド](module2.md)
-## 3. 基本操作
-* [git init コマンド](module3-1.md)
-* [git add コマンド](module3-2.md)
-* [git commit コマンド](module3-3.md)
 
-![Copyright example.corp](./image/copyright.jpg)
+# Git 操作マニュアル
+
+Git のローカルリポジトリ操作を順番にまとめた簡潔な手順です。
+
+## 目次
+
+1. [リポジトリの初期化](section1.md) - 最初の設定
+2. [変更ファイルの追加](section2.md) - 編集内容の登録
+3. [コミットの作成](section3.md) - 変更を保存
+4. [ブランチの管理](section4.md) - 作業の分岐
+5. [状態確認と履歴](section5.md) - 現在の状態を確認
+
+> Git は変更を確認しながら進めると安全です。
